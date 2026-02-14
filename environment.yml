@@ -1,0 +1,16 @@
+name: house-price-estimate
+channels:
+  - conda-forge
+  - defaults
+
+
+dependencies:
+  - python=3.11
+
+  - numpy
+  - pandas
+  - matplotlib
+
+  - scikit-learn
+
+  - seaborn
